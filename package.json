@@ -1,0 +1,27 @@
+{
+  "name": "movies-dataset",
+  "version": "1.0.0",
+  "description": "Movies, directors, actresses and actors dataset!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randfun/movies-dataset.git"
+  },
+  "keywords": [
+    "dataset",
+    "movies",
+    "rand.fun"
+  ],
+  "author": "Angel M Miguel <angel@laux.es>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/randfun/movies-dataset/issues"
+  },
+  "homepage": "https://github.com/randfun/movies-dataset#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
